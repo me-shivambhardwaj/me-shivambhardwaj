@@ -9,7 +9,7 @@ I'm a Full Stack Java Developer passionate about crafting clean, scalable, and h
 👯 I'm looking to collaborate on open source Java or full-stack projects
 🤔 I'm looking for help with system design and distributed systems
 💬 Ask me about Java, Spring Boot, REST APIs, and full-stack development
-📫 How to reach me: youremail@gmail.com
+📫 How to reach me: shivamdev316@@gmail.com
 😄 Pronouns: He/Him
 ⚡ Fun fact: I debug code faster with a cup of coffee ☕
 
